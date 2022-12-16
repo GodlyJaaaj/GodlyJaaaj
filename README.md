@@ -18,4 +18,5 @@
 This is a collection of shell scripts that i use almost everyday. 
 It is mainly made for epitech students but it can be used by anyone.
 Take a look at it [GodlyJaaaj/shell_bash_scripts](https://github.com/GodlyJaaaj/shell_bash_scripts)
-
+---
+<a href="http://www.epitech.eu/" title="l'expertise informatique"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/LOGO-EPITECH-BASELINE-QUADRI-2021.png" border="0" alt="Epitech, l'école de l'informatique en action" width=10%></a>
