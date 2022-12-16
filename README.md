@@ -1,6 +1,6 @@
 # Hi 🤟
 
-### I'm Sébastien, i'm currently a 1st year student at epitech. 👨‍💻
+### I'm Sébastien, i'm currently a 1st year student at {EPITECH} <img src="https://www.epitech.eu/wp-content/uploads/2019/09/epitech-logo.png" width="200" height="200" />. 👨‍💻
 
 # My skills 🧠
 ### I have some python/html/css/js knowledge but i'm mostly a C developer.
@@ -18,3 +18,4 @@
 This is a collection of shell scripts that i use almost everyday. 
 It is mainly made for epitech students but it can be used by anyone.
 Take a look at it [GodlyJaaaj/shell_bash_scripts](https://github.com/GodlyJaaaj/shell_bash_scripts)
+
