@@ -19,4 +19,3 @@ Shell_scripts:
 This is a collection of shell scripts that i use almost everyday. 
 It is mainly made for epitech students but it can be used by anyone.
 Take a look at it [GodlyJaaaj/shell_bash_scripts](https://github.com/GodlyJaaaj/shell_bash_scripts)
-```
