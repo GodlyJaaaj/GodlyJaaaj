@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi 🤟
+___
 
-<!--
-**GodlyJaaaj/GodlyJaaaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sébastien, i'm currently a 1st year student at epitech. 👨‍💻
+___
+# My skills 🧠
+I have some python/html/css/js knowledge but i'm mostly a C developer.
+___
 
-Here are some ideas to get you started:
+# More about me 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an epitech ambassador and i'm also a member of cobra coding club which
+means that if you have any questions about epitech or coding in general i'm 
+ready to help you. 🤓
+
+---
+
+# My projects 📚
+
+Besides my school projects i'm also working on some personal projects.
+Here are some of them:\
+    **Shell_scripts**:\
+        This is a collection of shell scripts that i use almost everyday.
+        It is mainly made for epitech students but it can be used by anyone. 
+        Take a look at it [GodlyJaaaj/shell_bash_scripts](https://github.com/GodlyJaaaj/shell_bash_scripts)
+
+---
