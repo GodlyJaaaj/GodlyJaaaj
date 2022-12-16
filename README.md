@@ -2,16 +2,14 @@
 ___
 
 ### I'm Sébastien, i'm currently a 1st year student at epitech. 👨‍💻
-___
+
 # My skills 🧠
 ### I have some python/html/css/js knowledge but i'm mostly a C developer.
-___
 
 # More about me 🤔
 
 ### I'm an epitech ambassador and i'm also a member of cobra coding club which means that if you have any questions about epitech or coding in general i'm ready to help you. 🤓
 
----
 
 # My projects 📚
 
