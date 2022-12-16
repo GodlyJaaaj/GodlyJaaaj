@@ -1,5 +1,4 @@
 # Hi 🤟
-___
 
 ### I'm Sébastien, i'm currently a 1st year student at epitech. 👨‍💻
 
