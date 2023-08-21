@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [IExec Stack as DevOps](https://iex.ec/fr/)
+- 🔭 I'm currently a DevOps intern at [IExec](https://iex.ec/fr/)
 
 - 🌱 I’m currently learning **C++ / C# / Kubernetes**
 
