@@ -1,8 +1,8 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I'm currently as a DevOps intern at [IExec](https://iex.ec/fr/)
+- 🔭 I'm currently a second-year student @[Epitech](https://www.epitech.eu/)
 
-- 🌱 I’m currently learning **C++ / C# / Kubernetes**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **sebastien.lucas@epitech.eu**
 
